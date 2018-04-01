@@ -6,6 +6,7 @@
 
 #include <iostream>
 #include <time.h>
+#include <stdlib.h>
 #define N 100000
 using namespace std;
 
